@@ -399,7 +399,7 @@ public class SysUserServiceImpl implements SysUserService, Runnable {
     /**
      * 这是第四个测试
      */
-    public void test0() {
+    public void test03() {
         System.out.println("这是第四个");
         System.out.println("这也是测试");
     }
