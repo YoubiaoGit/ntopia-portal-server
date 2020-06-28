@@ -387,4 +387,13 @@ public class SysUserServiceImpl implements SysUserService, Runnable {
     }
 
 
+    /**
+     * 这是第二个测试
+     */
+    public void test02() {
+        System.out.println("这是第二个");
+        System.out.println("这也是个测试");
+    }
+
+
 }
